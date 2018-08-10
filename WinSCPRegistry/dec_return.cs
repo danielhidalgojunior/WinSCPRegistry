@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WinSCP_Reg_Decrypt
+namespace WinSCPRegistry
 {
     class dec_return
     {

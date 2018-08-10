@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WinSCP_Reg_Decrypt
+namespace WinSCPRegistry
 {
-    class WinSCPRegistryReader
+    public class WinSCPRegistryReader
     {
         public Dictionary<string, object> Keys { get; set; }
 

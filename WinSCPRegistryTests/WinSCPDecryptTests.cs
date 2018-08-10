@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WinSCP_Reg_Decrypt.Tests
+namespace WinSCPRegistry.Tests
 {
     [TestClass()]
     public class WinSCPDecryptTests
